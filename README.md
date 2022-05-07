@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshreddy221
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics and machine learning engineer
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on where i can make my skills utilize.
 - 📫 How to reach me ...
