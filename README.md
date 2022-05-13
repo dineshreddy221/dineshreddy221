@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and machine learning engineer
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on where i can make my skills utilize.
-- 📫 How to reach me ...
+- 📫 You can reach me through LinkedIn.
 
 <!---
 dineshreddy221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
