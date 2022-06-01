@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dineshreddy221
-- 👀 I’m interested in data analytics and machine learning engineer
+- 👋 Hi, I’m @Uppuluridineshreddy
+- 👀 I’m interested in data analytics and machine learning engineer and data scientist
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on where i can make my skills utilize.
+- 💞️ I’m looking to collaborate on where i can make my skills utilize...
 - 📫 You can reach me through LinkedIn.
 
 <!---
